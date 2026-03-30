@@ -1,0 +1,26 @@
+{
+  "name": "Brainrot",
+  "symbol": "BRAINROT",
+  "description": "Brainrot is the next viral meme taking over the timeline. Strong community, unstoppable momentum, and maximum degen energy. This is more than a token — it’s a cultural takeover. Fade Brainrot now, watch it dominate later.",
+  "seller_fee_basis_points": 0,
+  "image": "https://mrburgust.github.io/solana-assets/BRAINROT/logo.png",
+  "attributes": [
+    {
+      "trait_type": "Token Type",
+      "value": "Meme"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Solana"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://mrburgust.github.io/solana-assets/BRAINROT/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
