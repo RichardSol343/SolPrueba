@@ -1,0 +1,26 @@
+{
+  "name": "smokecat",
+  "symbol": "SMOKECAT",
+  "description": "smokecat is the next viral meme taking over the timeline. Strong community, unstoppable momentum, and maximum degen energy. This is more than a token — it’s a cultural takeover. Fade smokecat now, watch it dominate later.",
+  "seller_fee_basis_points": 0,
+  "image": "https://richardsol343.github.io/SolPrueba/SMOKECAT/logo.png",
+  "attributes": [
+    {
+      "trait_type": "Token Type",
+      "value": "Meme"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Solana"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://richardsol343.github.io/SolPrueba/SMOKECAT/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
